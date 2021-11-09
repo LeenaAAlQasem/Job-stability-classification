@@ -18,7 +18,7 @@ providing consistent, stable jobs can help companies increase retention, attract
 
 
 ## Dataset
-The datasets that was used in this project is a public source dataset, from Kaggle. Source: (Here)[https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists]. The dataset includes many features it consists of relevent_experience, company_size, training_hours, education_level, etc. It is useful for the classification prediction.
+The datasets that was used in this project is a public source dataset, from Kaggle. Source: [Here](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists). The dataset includes many features it consists of relevent_experience, company_size, training_hours, education_level, etc. It is useful for the classification prediction.
   - Size: 19159 records × 14 columns
 
 Tools:
