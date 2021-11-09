@@ -1,4 +1,4 @@
-<h1 align="center">Job Stability Classification</h1>
+<h1 align="center">Predicting Job Stability Using Classification</h1>
 <center> By Leena AlQasem | Leenabdulh@gmail.com </center>
 
 
